@@ -3,6 +3,7 @@
         "LICENSE": true
     },
     "files.associations": {
-        "LICENSE": "plaintext"
+        "LICENSE": "plaintext",
+        "CODEOWNERS": "ignore"
     }
 }
